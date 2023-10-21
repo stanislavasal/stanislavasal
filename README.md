@@ -19,7 +19,7 @@
 ### About me 
 - I'm currently a third-year undergraduate student at HSE University in Moscow
 - I'm studying UI/UX design, iOS development, and full-stack programming (primarily frontend)
-- My native language is Russian, and I'm fluent in English (IELTS Academic: 7)
+- My native language is Russian, and I'm fluent in English (IELTS Academic 7)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html"

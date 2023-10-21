@@ -18,7 +18,7 @@
 
 ### About me 
 - I'm currently a third-year undergraduate student at HSE University in Moscow
-- I'm studying UI/UX design, iOS development, and full-stack programming (primarily frontend)
+- I'm studying UI/UX design, iOS development and full-stack programming (primarily frontend)
 - My native language is Russian, and I'm fluent in English (my IELTS Academic score is 7)
 
 ### Languages and tools
